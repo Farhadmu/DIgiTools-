@@ -68,3 +68,5 @@ For production-level scalability:
 * 💳 Payment integration
 
 ### Update: Added navbar functionality
+### Feature Update 1
+- Added responsive navbar with cart indicator and navigation links
