@@ -67,4 +67,4 @@ For production-level scalability:
 * 🔍 Search & filtering system
 * 💳 Payment integration
 
-
+### Update: Added navbar functionality
