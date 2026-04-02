@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "description": "Perfect for beginners who want to create professional resumes with essential tools. This plan gives you a solid starting point with clean templates and easy export options.",
+    "price": 3.99,
+    "period": "monthly",
+    "tag": "Starter",
+    "tagType": "New",
+    "features": [
+      "50+ modern templates",
+      "Basic ATS optimization",
+      "PDF export",
+      "Limited storage",
+      "Email support"
+    ],
+     "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "id": 2,
+    "name": "Starter",
+    "description": "Designed for freelancers and early-career professionals who need more flexibility and better presentation.",
+    "price": 5.99,
+    "period": "monthly",
+    "tag": "Starter",
+    "tagType": "New",
+    "features": [
+      "100+ premium templates",
+      "ATS optimization score",
+      "Export to PDF and Word",
+      "Cover letter templates",
+      "Email support"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/2922/2922510.png"
+  },
+  {
+    "id": 3,
+    "name": "Pro",
+    "description": "Most popular plan with advanced tools to create optimized and visually appealing resumes.",
+    "price": 9.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "Popular",
+    "features": [
+      "200+ designer templates",
+      "Advanced ATS optimization",
+      "Cover letter builder",
+      "Priority support",
+      "Resume analytics"
+    ],
+   "icon": "https://cdn-icons-png.flaticon.com/512/1828/1828884.png"
+  },
+  {
+    "id": 4,
+    "name": "Premium",
+    "description": "Unlock AI-powered resume building tools and advanced career features.",
+    "price": 19.99,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "Best seller",
+    "features": [
+      "Unlimited templates",
+      "AI content suggestions",
+      "Advanced ATS scanning",
+      "Multiple resume versions",
+      "24/7 support"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/190/190411.png"
+  },
+  {
+    "id": 5,
+    "name": "Team",
+    "description": "Perfect for teams and agencies managing multiple resumes efficiently.",
+    "price": 49,
+    "period": "monthly",
+    "tag": "Team",
+    "tagType": "Popular",
+    "features": [
+      "Everything in Premium",
+      "Team collaboration",
+      "Admin dashboard",
+      "Shared templates",
+      "Analytics"
+    ],
+     "icon": "https://cdn-icons-png.flaticon.com/512/681/681494.png"
+  },
+  {
+    "id": 6,
+    "name": "Yearly Pro",
+    "description": "Save more with yearly billing and enjoy full Pro features.",
+    "price": 89,
+    "period": "yearly",
+    "tag": "Save 40%",
+    "tagType": "Popular",
+    "features": [
+      "All Pro features",
+      "2 months free",
+      "Early access",
+      "Priority support",
+      "Yearly savings"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135679.png"
+  },
+  {
+    "id": 7,
+    "name": "Lifetime",
+    "description": "One-time payment for lifetime access with all features unlocked.",
+    "price": 199,
+    "period": "one-time",
+    "tag": "Best Value",
+    "tagType": "New",
+    "features": [
+      "All Premium features",
+      "Lifetime updates",
+      "No subscription",
+      "VIP support",
+      "All future tools"
+    ],
+        "icon": "https://cdn-icons-png.flaticon.com/512/833/833314.png"
+  },
+  {
+    "id": 8,
+    "name": "Enterprise",
+    "description": "Custom solutions for large organizations with advanced integrations.",
+    "price": 299,
+    "period": "monthly",
+    "tag": "Enterprise",
+    "tagType": "Popular",
+    "features": [
+      "Unlimited users",
+      "Custom AI model",
+      "Advanced security",
+      "Dedicated manager",
+      "SLA support"
+    ],
+   "icon": "https://cdn-icons-png.flaticon.com/512/906/906175.png"
+  },
+  {
+    "id": 9,
+    "name": "Student",
+    "description": "Affordable plan for students with powerful resume tools.",
+    "price": 2.99,
+    "period": "monthly",
+    "tag": "Student",
+    "tagType": "New",
+    "features": [
+      "150+ templates",
+      "ATS optimization",
+      "PDF & Word export",
+      "Cover letter builder",
+      "Student verification"
+    ],
+     "icon": "https://cdn-icons-png.flaticon.com/512/201/201623.png"
+  }
+]
